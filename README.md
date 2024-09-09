@@ -1,4 +1,4 @@
- Descontraído para o seu Projeto de Pesquisa de Atletas**
+desvendando atletas - imersão dev com google gemini
 
  Buscando Atletas? Nós te ajudamos!**
 

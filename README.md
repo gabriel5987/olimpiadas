@@ -1,4 +1,4 @@
-## **## Readme.md Descontraído para o seu Projeto de Pesquisa de Atletas**
+ Descontraído para o seu Projeto de Pesquisa de Atletas**
 
  Buscando Atletas? Nós te ajudamos!**
 
